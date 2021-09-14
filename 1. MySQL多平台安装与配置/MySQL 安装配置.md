@@ -118,7 +118,7 @@ mysql -P 7777 -u root -p xxx
 
 - [DataGrip](https://www.jetbrains.com/datagrip/)
 
-![image-20210830130148081](F:\学习\mySQL\1. MySQL 安装配置（Windows）.assets\image-20210830130148081.png)
+![pic](https://github.com/DanferWang/Learning_MySQL/blob/master/1.%20MySQL%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/MySQL%20%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%EF%BC%88Windows%EF%BC%89.assets/image-20210830130148081.png?raw=true)
 
 ## MySQL服务：命令行
 
