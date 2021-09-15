@@ -12,3 +12,10 @@
 - 给出MySQL服务在三大主要运行平台（Windows，macOS，Ubuntu）的下载地址、安装方法、配置操作
 - 建立服务-端口-对象的思维模式
 - 简单介绍MySQL服务的运行维护基本指令
+
+## MySQL数据库服务的基础认知
+[MySQL与一众数据库服务的基础认知](https://github.com/DanferWang/Learning_MySQL/tree/master/2.%20MySQL%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5)
+- 介绍MySQL数据库服务的三层体系结构
+- 说明数据库的三层使用结构，不局限于MySQL，几乎所有关系型数据库系统都是类似的三层使用结构
+- SQL语句分类
+- 通过Java获取数据库服务、操作数据库、数据传输
