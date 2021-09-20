@@ -9,12 +9,15 @@
 ## MySQL数据库服务安装与配置
 
 [MySQL数据库服务多平台安装与配置](https://github.com/DanferWang/Learning_MySQL/tree/master/1.%20MySQL%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
+
 - 给出MySQL服务在三大主要运行平台（Windows，macOS，Ubuntu）的下载地址、安装方法、配置操作
 - 建立服务-端口-对象的思维模式
 - 简单介绍MySQL服务的运行维护基本指令
 
 ## MySQL数据库服务的基础认知
+
 [MySQL与一众数据库服务的基础认知](https://github.com/DanferWang/Learning_MySQL/tree/master/2.%20MySQL%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5)
+
 - 介绍MySQL数据库服务的三层体系结构
 - 说明数据库的三层使用结构，不局限于MySQL，几乎所有关系型数据库系统都是类似的三层使用结构
 - SQL语句分类
@@ -28,3 +31,10 @@
 - 删除数据库
 - 查看数据库，``的使用
 - 数据库的备份与恢复，以及对数据库中表的备份与恢复
+
+## 表操作
+[对数据库中表的操作](https://github.com/DanferWang/Learning_MySQL/tree/master/4.%20%E8%A1%A8%E6%93%8D%E4%BD%9C)
+
+- 创建表，在数据库中新建一个schema，定义列名（字段名）及类型，以及后续将提到的约束；和表属性
+- 修改表，表本身的增改查操作
+- 删除表
