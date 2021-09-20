@@ -33,6 +33,20 @@ CREATE TABLE new_tbl LIKE existing_tbl
 
 - 可通过Navicat图形化修改
 
+### 添加行（记录）
+
+添加行（记录），本质上就是给表中按照规定的格式添加数据
+
+```mysql
+-- 按照指定列插入数据，可存在空列（字段）
+INSERT INTO tbl(col1, col3, ...)
+	VALUES(data1, data3, ...)
+
+-- 完整插入数据，不允许存在空列（字段）
+INSERT INTO tbl
+	VALUES(data1, data2, ...)
+```
+
 ### 添加列
 
 ```mysql
