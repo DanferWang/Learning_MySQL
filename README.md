@@ -41,7 +41,7 @@
 
 ## 常用数据类型
 
-[在表中常用的数据类型（列类型）]()
+[在表中常用的数据类型（列类型）](https://github.com/DanferWang/Learning_MySQL/tree/master/5.%20%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 
 - 列类型分类overview
 - 数值类型
