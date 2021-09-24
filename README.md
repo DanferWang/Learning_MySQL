@@ -48,3 +48,14 @@
 - 字符串类型
 - 日期类型
 - 枚举类型
+
+## 数据的增删改查
+
+[表中数据的增删改查]()
+
+- 增：INSERT
+- 改：UPDATE
+- 删：DELETE
+- 查：SELECT
+  - WHERE
+  - ORDER BY
