@@ -8,7 +8,7 @@
 
 - 整形：
 
-  ![image-20210522171747827](.\5. 常用数据类型.assets\image-20210522171747827.png)
+  ![image-20210522171747827](https://github.com/DanferWang/Learning_MySQL/blob/master/5.%20%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/5.%20%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.assets/image-20210522171747827.png?raw=true)
 
   - tinyint【1个字节】
   - smallint【2个字节】
