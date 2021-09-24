@@ -51,7 +51,7 @@
 
 ## 数据的增删改查
 
-[表中数据的增删改查]()
+[表中数据的增删改查](https://github.com/DanferWang/Learning_MySQL/tree/master/6.%20%E8%A1%A8%E4%B8%AD%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5)
 
 - 增：INSERT
 - 改：UPDATE
