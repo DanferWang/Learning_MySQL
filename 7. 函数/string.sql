@@ -4,7 +4,7 @@ SELECT CHARSET(ename) FROM emp
 SELECT CONCAT(ename, ' job is ', job) FROM emp
 
 -- DUAL 亚元表，系统表，一般可做为测试表使用
-SELECT INSTR('王浩辰','浩辰') FROM DUAL
+SELECT INSTR('王一二','一二') FROM DUAL
 
 SELECT UCASE(ename), LCASE(ename) FROM emp
 
