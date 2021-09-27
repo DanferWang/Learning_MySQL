@@ -62,7 +62,7 @@
 
 ## 函数
 
-[SQL函数]()
+[SQL函数](https://github.com/DanferWang/Learning_MySQL/tree/master/7.%20%E5%87%BD%E6%95%B0)
 
 - 数据统计函数：计数、求和、平均、最值、分组统计
 - 字符串函数：一系列对字符串对象的操作
