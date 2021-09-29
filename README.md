@@ -73,7 +73,7 @@
 
 ## 查询增强
 
-[SELECT查询增强]()
+[SELECT查询增强](https://github.com/DanferWang/Learning_MySQL/tree/master/8.%20%E6%9F%A5%E8%AF%A2%E5%A2%9E%E5%BC%BA)
 
 - 日期类型比较
 - 模糊查询
