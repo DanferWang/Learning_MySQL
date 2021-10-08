@@ -83,7 +83,7 @@
 
 ## 多表查询
 
-[多表查询]()
+[多表查询](https://github.com/DanferWang/Learning_MySQL/tree/master/9.%20%E5%A4%9A%E8%A1%A8%E6%9F%A5%E8%AF%A2)
 
 - 表与表之间的笛卡尔积
 - 同一表的自连接
@@ -91,7 +91,7 @@
 
 ## 表的子查询
 
-[子查询（嵌套查询）]()
+[子查询（嵌套查询）](https://github.com/DanferWang/Learning_MySQL/tree/master/10.%20%E5%AD%90%E6%9F%A5%E8%AF%A2)
 
 - 嵌入在其他SQL语句中的SELECT语句
 - 临时表
@@ -100,14 +100,14 @@
 
 ## 表的复制
 
-[表复制]()
+[表复制](https://github.com/DanferWang/Learning_MySQL/tree/master/11.%20%E8%A1%A8%E5%A4%8D%E5%88%B6)
 
 - 蠕虫复制：自我复制数据
 - 别表复制与本表复制
 
 ## 合并查询
 
-[合并查询]()
+[合并查询](https://github.com/DanferWang/Learning_MySQL/tree/master/12.%20%E5%90%88%E5%B9%B6%E6%9F%A5%E8%AF%A2)
 
 - 合并多个SELECT语句结果
 - 集合操作符
