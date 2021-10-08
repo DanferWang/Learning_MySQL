@@ -83,7 +83,7 @@
 
 ## 多表查询
 
-[多表查询]()
+[多表查询](https://github.com/DanferWang/Learning_MySQL/tree/master/9.%20%E5%A4%9A%E8%A1%A8%E6%9F%A5%E8%AF%A2)
 
 - 表与表之间的笛卡尔积
 - 同一表的自连接
