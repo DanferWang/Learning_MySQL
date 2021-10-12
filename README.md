@@ -114,7 +114,7 @@
 
 ## 数据库约束
 
-[MySQL约束]()
+[MySQL约束](https://github.com/DanferWang/Learning_MySQL/tree/master/13.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%BA%A6%E6%9D%9F)
 
 - 主键：PRIMARY KEY
 - 非空：NOT NULL
