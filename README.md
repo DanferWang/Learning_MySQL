@@ -112,3 +112,13 @@
 - 合并多个SELECT语句结果
 - 集合操作符
 
+## 数据库约束
+
+[MySQL约束]()
+
+- 主键：PRIMARY KEY
+- 非空：NOT NULL
+- 唯一：UNIQUE
+- 外键：FOREIGN KEY
+- 检查：CHECK
+- 自增长：AUTO INCREMENT
