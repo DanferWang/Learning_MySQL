@@ -125,7 +125,7 @@
 
 ## 数据库索引
 
-[MySQL索引]()
+[MySQL索引](https://github.com/DanferWang/Learning_MySQL/tree/master/14.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B4%A2%E5%BC%95)
 
 建立一张海量数据表，试图在该表上写查询语句并执行，可以直观地体会到索引显著提高执行效率
 
