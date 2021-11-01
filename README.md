@@ -138,7 +138,7 @@
 
 ## 事务
 
-[MySQL事务]()
+[MySQL事务](https://github.com/DanferWang/Learning_MySQL/tree/master/15.%20%E4%BA%8B%E5%8A%A1)
 
 - 事务 transaction
 - 操作
