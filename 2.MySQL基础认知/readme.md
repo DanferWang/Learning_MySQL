@@ -47,7 +47,7 @@
 
 在Java中一行（记录），往往被创建为一个对象
 
-![arct.drawio](https://github.com/DanferWang/Learning_MySQL/blob/master/2.%20MySQL%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5/2.%20MySQL%20%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5.assets/arct.drawio.png?raw=true)
+![arct.drawio](assets/arct.drawio.png)
 
 ## SQL语句分类
 

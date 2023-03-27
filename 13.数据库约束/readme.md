@@ -111,7 +111,7 @@ INSERT INTO tbl(col2, ...) VALUES(value2, ...)
 
 ## 一个例子
 
-**商店售货系统表设计**
+[商店售货系统表设计](./shop_db.sql)
 
 ​	现在有一个商店的数据库shop_db，用于记录客户及其购物情况
 

@@ -122,6 +122,7 @@
 - 外键：FOREIGN KEY
 - 检查：CHECK
 - 自增长：AUTO INCREMENT
+- 一个实例
 
 ## 数据库索引
 
