@@ -8,7 +8,7 @@
 
 ## MySQL数据库服务安装与配置
 
-[MySQL数据库服务多平台安装与配置](https://github.com/DanferWang/Learning_MySQL/tree/master/1.%20MySQL%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
+[MySQL数据库服务多平台安装与配置](./1.MySQL多平台安装与配置)
 
 - 给出MySQL服务在三大主要运行平台（Windows，macOS，Ubuntu）的下载地址、安装方法、配置操作
 - 建立服务-端口-对象的思维模式
@@ -16,7 +16,7 @@
 
 ## MySQL数据库服务的基础认知
 
-[MySQL与一众数据库服务的基础认知](https://github.com/DanferWang/Learning_MySQL/tree/master/2.%20MySQL%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5)
+[MySQL与一众数据库服务的基础认知](./2.MySQL基础认知)
 
 - 介绍MySQL数据库服务的三层体系结构
 - 说明数据库的三层使用结构，不局限于MySQL，几乎所有关系型数据库系统都是类似的三层使用结构
@@ -25,7 +25,7 @@
 
 ## 数据库操作
 
-[对DBMS下数据库的操作](https://github.com/DanferWang/Learning_MySQL/tree/master/3.%20%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C)
+[对DBMS下数据库的操作](./3.数据库操作)
 
 - 创建数据库，SQL语句与应用程序图形化方法
 - 删除数据库
