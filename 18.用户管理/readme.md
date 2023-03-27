@@ -39,7 +39,7 @@ MySQL的用户储存在系统数据库mysql中的user表内。
 
 MySQL中的权限：
 
-![img](.\assets\823295-20200914203407980-214019603.png)
+![img](.\assets\3.png)
 
 ### 给用户授权
 
